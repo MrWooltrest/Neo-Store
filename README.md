@@ -67,7 +67,7 @@ Help us translate Droid-ify on [Hosted Weblate](https://hosted.weblate.org/engag
 
 ### You can always add other languages.
 
-## :scroll: License
+## :scroll: License [<img align="right" src="https://www.gnu.org/graphics/gplv3-88x31.png" alt="GPLv3" />](COPYING)
 
 Licensed under GPLv3+. \
 Direct Adaptation/Modification of [Foxy-Droid](https://github.com/kitsunyan/foxy-droid/) \
