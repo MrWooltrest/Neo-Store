@@ -62,7 +62,7 @@ All of these packages can be installed using the Android package manager
 
 ## :eye_speech_bubble: Translations [<img align="right" src="https://hosted.weblate.org/widgets/droidify/-/287x66-white.png" alt="Translation status" />](https://hosted.weblate.org/engage/droidify/?utm_source=widget)
 
-Help us translate Droid-ify on [Hosted Weblate](https://hosted.weblate.org/engage/droidify/). \
+Help us translate Neo Store on [Hosted Weblate](https://hosted.weblate.org/engage/droidify/). \
 [![Translation status](https://hosted.weblate.org/widgets/droidify/-/multi-auto.svg)](https://hosted.weblate.org/engage/droidify/?utm_source=widget)
 
 ### You can always add other languages
