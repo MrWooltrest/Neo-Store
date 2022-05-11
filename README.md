@@ -1,6 +1,6 @@
 # Neo Store <img title="" src="src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" align="left" width="64">
 
-### A quick material F-Droid client.
+### A quick material F-Droid client
 
 [![Github repo stars](https://img.shields.io/github/stars/NeoApplications/Neo-Store?style=flat)](https://github.com/NeoApplications/Neo-Store/stargazers)
 [![Github License](https://img.shields.io/github/license/NeoApplications/Neo-Store)](https://github.com/NeoApplications/Neo-Store/blob/master/COPYING)
@@ -65,7 +65,7 @@ All of these packages can be installed using the Android package manager
 Help us translate Droid-ify on [Hosted Weblate](https://hosted.weblate.org/engage/droidify/). \
 [![Translation status](https://hosted.weblate.org/widgets/droidify/-/multi-auto.svg)](https://hosted.weblate.org/engage/droidify/?utm_source=widget)
 
-### You can always add other languages.
+### You can always add other languages
 
 ## :scroll: License
 
