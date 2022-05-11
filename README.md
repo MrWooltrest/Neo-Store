@@ -69,7 +69,6 @@ Help us translate Droid-ify on [Hosted Weblate](https://hosted.weblate.org/engag
 
 ## :scroll: License
 
-[<img align="right" src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" alt="GPLv3" />](COPYING)
 Licensed under GPLv3+. \
 Direct Adaptation/Modification of [Foxy-Droid](https://github.com/kitsunyan/foxy-droid/) \
 Copyright © 2020–2022 [Iamlooker](https://github.com/Iamlooker) and [contributors](https://github.com/NeoApplications/Neo-Store/graphs/contributors).
