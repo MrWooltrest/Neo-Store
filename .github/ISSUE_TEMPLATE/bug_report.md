@@ -24,9 +24,9 @@ If applicable, add screenshots to help explain your problem.
 
 **Smartphone (please complete the following information):**
 
-- Device: [e.g. Pixel6]
-- OS: [e.g. Android 8.1]
-- Version [e.g. 0.4.1]
+- Device: [e.g. Pixel 6]
+- OS: [e.g. Android 12]
+- Version [e.g. 0.4.3]
 
 **Additional context**
 Add any other context about the problem here.
